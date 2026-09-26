@@ -69,3 +69,51 @@ Conclusion
 
 The dataset was cleaned and prepared for further analysis by handling missing values, checking duplicate records, correcting data formats, and standardizing inconsistent values.
 
+
+## Task 2 - Exploratory Data Analysis (EDA)
+
+### Objective
+
+The objective of Task 2 is to perform exploratory data analysis on the cleaned dataset from Task 1. The analysis was performed using Microsoft Excel to calculate important statistics, identify trends, patterns, and anomalies, and create meaningful visualizations.
+
+### Analysis Performed
+
+- Calculated total number of transactions.
+- Calculated total transaction amount.
+- Calculated average transaction amount.
+- Identified the highest and lowest transaction amounts.
+- Analyzed high-value transactions above 2,000.
+- Performed gender-wise transaction analysis.
+- Analyzed transactions by category.
+- Analyzed monthly transaction amount trends.
+- Checked for unusual, negative, and zero transaction values.
+- Created charts and visualizations to understand the data.
+
+### Key Statistics
+
+- **Total Transactions:** 50,000
+- **Total Transaction Amount:** Approximately 22.11 million
+- **Average Transaction Amount:** Approximately 442
+- **Lowest Transaction Amount:** 5.01
+- **Highest Transaction Amount:** 2,999.88
+- **High-Value Transactions above 2,000:** 2,845
+
+### 5 Useful Insights
+
+1. The dataset contains **50,000 transactions**.
+2. The total transaction amount is approximately **22.11 million**.
+3. The average transaction amount is approximately **442**.
+4. Transaction amounts range from **5.01 to 2,999.88**.
+5. There are **2,845 high-value transactions above 2,000**.
+
+### Anomaly Analysis
+
+- No negative transaction values were identified.
+- No zero transaction values were identified.
+- No obvious unusual high or low transaction values were identified.
+
+### Task 2 File
+
+The complete exploratory data analysis is available in:
+
+**Task_2_EDA_Analysis.xlsx**
